@@ -1,6 +1,6 @@
 # CogniDeepAI
 
-Welcome to CogniDeep AI! We're a group all about learning artificial intelligence, machine learning, and data science. Founded by Fahmi Zainal and co-founded by Hazman Naim, our mission is to create a space where everyone can explore and grow their knowledge.
+Welcome to CogniDeep AI! We're a group all about artificial intelligence, machine learning, and data science. Founded by Fahmi Zainal and co-founded by Hazman Naim, our mission is to cultivate an inclusive space where everyone can explore, expand their knowledge in AI/ML/DS, and share their insights to benefit one another.
 
 In CogniDeep AI, we dive into exciting things like researching and developing in the fields of ML/AI, taking part in competitions to challenge ourselves, and having friendly discussions. We also have a book club where we read and talk about interesting resources including books, scholarly articles related to AI and data science.
 
